@@ -1,7 +1,3 @@
-# TP3DPBO2022
-
-### Saya Muhammad Rafi Shidiq (2004222) mengerjakan TP3DPBO2022 dalam mata kuliah Desain Pemrogaman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
-
 ## Screenshoots
 
 ![image](https://user-images.githubusercontent.com/96433779/172555833-699789f7-db4b-4552-a4ed-e4a3d004e5a9.png)
